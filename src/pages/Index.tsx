@@ -1,9 +1,9 @@
-import Navbar from "c:/Users/HP/OneDrive/New/src/components/Navbar";
-import Hero from "c:/Users/HP/OneDrive/New/src/components/Hero";
-import Products from "c:/Users/HP/OneDrive/New/src/components/Products";
-import About from "c:/Users/HP/OneDrive/New/src/components/About";
-import Contact from "c:/Users/HP/OneDrive/New/src/components/Contact";
-import Footer from "c:/Users/HP/OneDrive/New/src/components/Footer";
+import Navbar from "@/components/Navbar";
+import Hero from "@/components/Hero";
+import Products from "@/components/Products";
+import About from "@/components/About";
+import Contact from "@/components/Contact";
+import Footer from "@/components/Footer";
 
 const Index = () => {
   return (

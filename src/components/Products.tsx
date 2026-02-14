@@ -3,7 +3,7 @@ import clockImg from "@/assets/product-clock.jpg";
 import tableImg from "@/assets/product-table.jpg";
 import coastersImg from "@/assets/product-coasters.jpg";
 import nameplateImg from "@/assets/product-nameplate.jpg";
-import religiousImg from "@/assets/product-religious.jpg";
+import religiousImg from "@/assets/product-religious.jpeg";
 import giftsImg from "@/assets/product-gifts.jpg";
 
 const products = [

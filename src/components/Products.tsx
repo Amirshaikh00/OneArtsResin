@@ -1,10 +1,10 @@
 import ProductCard from "./ProductCard";
-import clockImg from "c:/Users/HP/OneDrive/New/src/assets/product-clock.jpg";
-import tableImg from "c:/Users/HP/OneDrive/New/src/assets/product-table.jpg";
-import coastersImg from "c:/Users/HP/OneDrive/New/src/assets/product-coasters.jpg";
-import nameplateImg from "c:/Users/HP/OneDrive/New/src/assets/product-nameplate.jpg";
-import religiousImg from "c:/Users/HP/OneDrive/New/src/assets/product-religious.jpg";
-import giftsImg from "c:/Users/HP/OneDrive/New/src/assets/product-gifts.jpg";
+import clockImg from "@/assets/product-clock.jpg";
+import tableImg from "@/assets/product-table.jpg";
+import coastersImg from "@/assets/product-coasters.jpg";
+import nameplateImg from "@/assets/product-nameplate.jpg";
+import religiousImg from "@/assets/product-religious.jpg";
+import giftsImg from "@/assets/product-gifts.jpg";
 
 const products = [
   {

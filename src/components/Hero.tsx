@@ -1,4 +1,4 @@
-import heroImage from "c:/Users/HP/OneDrive/New/src/assets/hero-resin.jpg";
+import heroImage from "@/assets/hero-resin.jpg";
 
 const Hero = () => {
   return (
